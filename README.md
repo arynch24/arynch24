@@ -10,8 +10,9 @@ I'm a passionate **Web Developer** and student at **IIT Guwahati**, diving deep 
 
 ## 🧰 Tech Stack
 - **Frontend**: React, Tailwind CSS, Next.js 
-- **Backend**: Node.js, Express.js, Firebase, PostgreSQL, MongoDB  
-- **Tools**: GitHub, Vercel, Postman, VS Code ,Prisma 
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL, MongoDB, Prisma
+- **Tools**: GitHub, Vercel, Postman, VS Code 
 
 ## 🚀 Current Focus
 - 🔧 Scaling SaaS apps from idea to MVP
