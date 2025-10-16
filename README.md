@@ -9,8 +9,8 @@ I'm a passionate **Web Developer** and student at **IIT Guwahati**, diving deep 
 - 🛠️ Exploring frameworks and modern developer tools
 
 ## 🧰 Tech Stack
-- **Frontend**: React, Tailwind CSS, Next.js 
-- **Backend**: Node.js, Express.js
+- **Frontend**: React, Next.js, Tailwind CSS, Shadcn/ui
+- **Backend**: Node.js, Express.js, Nest.js
 - **Database**: PostgreSQL, MongoDB, Prisma
 - **Tools**: GitHub, Vercel, Postman, VS Code 
 
